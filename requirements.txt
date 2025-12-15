@@ -1,0 +1,8 @@
+torch>=1.9.0
+torchvision>=0.10.0
+torchcam>=0.4.1
+matplotlib>=3.3.0
+numpy>=1.21.0
+Pillow>=8.0.0
+jupyter>=1.0.0
+ipykernel>=5.5.0
